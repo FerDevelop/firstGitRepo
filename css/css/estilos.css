@@ -1,0 +1,12 @@
+body{
+    background: green;
+    font-family: sans-serif;
+}
+h1{
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    color: red;
+}
